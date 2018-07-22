@@ -1,0 +1,34 @@
+Use Cases for iSkool
+
+Actors- Parent/Guardian of the Student,  School, Bank, Portal Admin
+
+Use Cases
+1)	Parent/Guardian registers on the site.
+2)	Parent/Guardian logins to site.
+3)	School registers on the site.
+4)	School Admin logins to site.
+5)	Admin logins to site.
+6)	Admin verifies Parent/Guardian details and sends alert
+7)	Admin verifies School details and sends alert.
+8)	Parent/Guardian enters Student details
+9)	School verifies Student details and sends alert.
+10)	School sends message with fee details.
+11)	Parent/Guardian pays fee online for Student
+12)	School acknowledges fee paid and sends message 
+13)	School checks for Fee defaulters and sends message
+
+
+Parent/Guardian registers on the site
+•	Enters user id, password, date of birth, profession, address.
+•	Registers as Parent or Guardian.
+•	Uploads ID proof- PAN or Aadhar. 
+
+School registers on the site
+•	School Admin enters details
+•	Uploads Recognition certificate.
+•	Enters user id and password
+
+
+
+
+
